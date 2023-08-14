@@ -1,0 +1,17 @@
+O que é uma API ?
+
+Uma API (interface de programação de aplicações) é um conjunto de serviços/funçoes que permite a comunicação entre dois softwares.
+
+o que é REST ?
+
+REST (Transferência de Estado Representacional), é um modelo de arquitetura usado em frameworks e aplicações web,
+que utiliza o protocolo HTTP para definir a comunicação entre os componentes de uma aplicação.
+
+
+O que é uma API REST? 
+
+API REST é uma interface de programação de aplicações para API ou API web que está em conformidade com as restrições do estilo
+de arquitetura REST, assim permitindo a interação dos serviços web RESTful. 
+
+
+
